@@ -1,4 +1,4 @@
-//utilizado para validar se o usuário tem mais de 18 anos e após se o nome se enquadra dentro dos liberados
+//utilizado para validar se o usuário tem mais de 18 anos e após se o nome se enquadra dentro dos nomes liberados
 
 const readLine = require('readline').createInterface({
     input : process.stdin,
